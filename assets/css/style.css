@@ -151,20 +151,21 @@ p {
 
 .icon-bar{
     display: flex;
-    margin: 0;
+    margin: 5px;
     margin-bottom: 30px;
-    padding: 15px;
-    width: 100%;
+    padding: 10px;
+    width: 90%;
     height: auto;
     align-items: left;
     text-align: left;
     justify-content: left;
     list-style-type: none;
     background-color: #000000;
+    display: flex;
 }  
 
 .icon-bar a {
-    padding-left: 20px;
+    padding-left: 5px;
 }
 
 /* Main container for works */
