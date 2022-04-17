@@ -28,8 +28,6 @@ It has the following interface:
 ![jt_codefolio](https://user-images.githubusercontent.com/94569484/163718093-c32ebcb4-6496-406a-ab38-cc982a04e872.gif)
 
 
-<img width="1425" alt="screencap1_landingpage" src="https://user-images.githubusercontent.com/94569484/163716652-384e9715-3a97-46c4-a7b5-444bf61852b3.png">
-
 <img width="1424" alt="screencap2_works" src="https://user-images.githubusercontent.com/94569484/163716704-0fc783ff-db94-4b43-8d3d-e10ec847626c.png">
 
 <img width="1430" alt="screencap3_projects" src="https://user-images.githubusercontent.com/94569484/163716748-24a5c919-b14d-42ae-b016-d651b7f98b54.png">
