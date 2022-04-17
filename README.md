@@ -18,20 +18,6 @@ This README pertains to the following submissions:
 
 * Updated LinkedIn profile
 
-## Deployed Version and Repo
-A deployed version of this portfolio can be viewed here: https://jbtiglao.github.io/codefolio/
-
-While the GitHub repository is found here: https://github.com/jbtiglao/codefolio
-
-It has the following interface:
-
-![jt_codefolio](https://user-images.githubusercontent.com/94569484/163718093-c32ebcb4-6496-406a-ab38-cc982a04e872.gif)
-
-
-<img width="1424" alt="screencap2_works" src="https://user-images.githubusercontent.com/94569484/163716704-0fc783ff-db94-4b43-8d3d-e10ec847626c.png">
-
-<img width="1430" alt="screencap3_projects" src="https://user-images.githubusercontent.com/94569484/163716748-24a5c919-b14d-42ae-b016-d651b7f98b54.png">
-
 
 ---
   ## Table of Contents
@@ -47,10 +33,22 @@ It has the following interface:
   
   ---
   ## Installation
-  Clone my repository on GitHub.
-  ```
-    https://github.com/jbtiglao/codefolio
-  ```
+  
+  The application runs in a browser. 
+  
+  ### Deployed Site and Repository
+A deployed version of this portfolio can be viewed here: https://jbtiglao.github.io/codefolio/
+
+While the GitHub repository is found here: https://github.com/jbtiglao/codefolio
+
+It has the following interface:
+
+![jt_codefolio](https://user-images.githubusercontent.com/94569484/163718093-c32ebcb4-6496-406a-ab38-cc982a04e872.gif)
+
+
+<img width="1424" alt="screencap2_works" src="https://user-images.githubusercontent.com/94569484/163716704-0fc783ff-db94-4b43-8d3d-e10ec847626c.png">
+
+<img width="1430" alt="screencap3_projects" src="https://user-images.githubusercontent.com/94569484/163716748-24a5c919-b14d-42ae-b016-d651b7f98b54.png">
 
   ---
   ## Usage
@@ -114,12 +112,6 @@ The application has the following interface when viewed using different devices 
   License used for this project - MIT
   
 Copyright 2022, Jane Tiglao.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
   ---
   ## Contributing
