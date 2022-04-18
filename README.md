@@ -63,7 +63,8 @@ It has the following interface:
   
 4. Link to a downloadable PDF of the author's resume.
 
-<img width="1425" alt="screencap1_landingpage" src="https://user-images.githubusercontent.com/94569484/163716822-d0ca6554-626c-4f66-90fa-1cfda8e7e2dc.png">
+
+<img width="1439" alt="screencap1_landingpage" src="https://user-images.githubusercontent.com/94569484/163890563-bd612031-d57f-4fbc-aafa-6918694843d7.png">
 
 
 5. Display at least 3 examples of student work from either deployed projects or homeworks. Each project has the following information:
