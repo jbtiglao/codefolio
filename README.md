@@ -85,18 +85,26 @@ It has the following interface:
 
 6. Have a polished, mobile-responsive user interface. 
 
+When using the Inspect tool on Google Chrome:
+
+<img width="1070" alt="screencap5_responsive" src="https://user-images.githubusercontent.com/94569484/163891647-9cbe2ec3-bf9e-4641-ad7b-8f0a082f2b0b.png">
+
+
+<img width="513" alt="pic12_responsiveness2" src="https://user-images.githubusercontent.com/94569484/163891990-ca3e0b70-fecb-415d-ad2b-4181627c6a94.png">
+
 The application has the following interface when viewed using different devices with different-sized screens:
 
-<img width="609" alt="screencap5_responsive" src="https://user-images.githubusercontent.com/94569484/163716934-1bb3065c-6635-4835-8e2d-09b77fcc3fee.png">
+***iPhone 13***
+<img width="478" alt="screencap7_iphone13" src="https://user-images.githubusercontent.com/94569484/163891793-d0e55433-14c9-4244-89b5-868e9c1a3b4b.png">
 
-<img width="494" alt="screencap7_iphone13" src="https://user-images.githubusercontent.com/94569484/163717035-4c623836-eee7-4272-8577-a1b69ba505c2.png">
+***iPad Mini***
+<img width="441" alt="screencap8_ipad-mini" src="https://user-images.githubusercontent.com/94569484/163891842-3d4006f8-feb0-4c0b-8839-970aac4aafa8.png">
 
+***iPad Air***
+<img width="498" alt="screencap9_ipad-air" src="https://user-images.githubusercontent.com/94569484/163891905-f6f2e687-0c69-4981-9e2c-de1f7460efe0.png">
 
-<img width="456" alt="screencap8_ipad-mini" src="https://user-images.githubusercontent.com/94569484/163717085-d46f2b2a-5fe2-44ab-b255-b626bfc46739.png">
-
-<img width="540" alt="screencap9_ipad-air" src="https://user-images.githubusercontent.com/94569484/163717108-ca418083-5de9-41e6-ba4b-9f524b46285d.png">
-
-<img width="492" alt="screencap6_macbook" src="https://user-images.githubusercontent.com/94569484/163716978-63d3b493-e44b-43e2-9ae8-ff3ec2a7c10e.png">
+***MacBook Pro***
+<img width="487" alt="screencap6_macbook" src="https://user-images.githubusercontent.com/94569484/163891956-08ebb5bb-1f39-44de-95c2-95ebff8fb78c.png">
 
 
 7. Follows the assignment's README requirements on design.
