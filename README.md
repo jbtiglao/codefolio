@@ -43,9 +43,10 @@ While the GitHub repository is found here: https://github.com/jbtiglao/codefolio
 
 It has the following interface:
 
-![jt_codefolio](https://user-images.githubusercontent.com/94569484/163730313-72d569d8-abd5-4bf0-a118-783be5bede75.gif)
+![jt_codefolio](https://user-images.githubusercontent.com/94569484/163890193-7ac75dad-3612-4566-93b5-0455d33ed045.gif)
 
-<img width="1424" alt="screencap2_works" src="https://user-images.githubusercontent.com/94569484/163716704-0fc783ff-db94-4b43-8d3d-e10ec847626c.png">
+<img width="1392" alt="screencap2_works" src="https://user-images.githubusercontent.com/94569484/163890234-3ce92c3a-4762-40b7-a4e8-a7116d48e6d2.png">
+
 
 <img width="1430" alt="screencap3_projects" src="https://user-images.githubusercontent.com/94569484/163716748-24a5c919-b14d-42ae-b016-d651b7f98b54.png">
 
