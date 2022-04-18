@@ -94,16 +94,16 @@ When using the Inspect tool on Google Chrome:
 
 The application has the following interface when viewed using different devices with different-sized screens:
 
-***iPhone 13***
+
 <img width="478" alt="screencap7_iphone13" src="https://user-images.githubusercontent.com/94569484/163891793-d0e55433-14c9-4244-89b5-868e9c1a3b4b.png">
 
-***iPad Mini***
+
 <img width="441" alt="screencap8_ipad-mini" src="https://user-images.githubusercontent.com/94569484/163891842-3d4006f8-feb0-4c0b-8839-970aac4aafa8.png">
 
-***iPad Air***
+
 <img width="498" alt="screencap9_ipad-air" src="https://user-images.githubusercontent.com/94569484/163891905-f6f2e687-0c69-4981-9e2c-de1f7460efe0.png">
 
-***MacBook Pro***
+
 <img width="487" alt="screencap6_macbook" src="https://user-images.githubusercontent.com/94569484/163891956-08ebb5bb-1f39-44de-95c2-95ebff8fb78c.png">
 
 
