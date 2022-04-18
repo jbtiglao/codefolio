@@ -77,7 +77,8 @@ It has the following interface:
 
 	* Screenshot of the deployed application
 
-<img width="1424" alt="screencap2_works" src="https://user-images.githubusercontent.com/94569484/163716894-72a55ebb-57e8-4892-b53e-8647201ecacb.png">
+<img width="1392" alt="screencap2_works" src="https://user-images.githubusercontent.com/94569484/163890790-142e9a8d-0760-42ee-9635-6f1b6e76b0cc.png">
+
 
 <img width="1426" alt="screencap4_projects2" src="https://user-images.githubusercontent.com/94569484/163716897-66462790-f944-4a3d-a13e-d049bdd0b31c.png">
 
