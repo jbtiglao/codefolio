@@ -10,7 +10,7 @@ The culmination of Project 2, which required us to build full-stack web applicat
 
 This README pertains to the following submissions: 
 
-* Updated portfolio (dubbed Codefolio because it is a portfolio containing the author's coding work) featuring at least three examples of student work from either deployed projects or homeworks.
+* Updated portfolio-- dubbed ***Codefolio*** because it is a portfolio containing the author's coding work-- featuring at least three examples of student work from either deployed projects or homeworks.
 
 * Updated GithHub profile with pinned repositories featuring at least 3 examples of student work from either deployed projects or homeworks.
 
